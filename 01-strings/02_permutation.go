@@ -1,4 +1,4 @@
-package permutation
+package strings
 
 import (
 	"github.com/fraidev/cracking-coding/utils"

@@ -1,4 +1,4 @@
-package urlify
+package strings
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package permutation
+package strings
 
 import "testing"
 

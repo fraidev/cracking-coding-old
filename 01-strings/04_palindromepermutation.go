@@ -1,4 +1,4 @@
-package palindromepermutation
+package strings
 
 import (
 	"strings"

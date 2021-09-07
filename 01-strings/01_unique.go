@@ -1,4 +1,4 @@
-package isunique
+package strings
 
 import (
 	"github.com/fraidev/cracking-coding/utils"
